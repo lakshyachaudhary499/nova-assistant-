@@ -1,0 +1,30 @@
+music = {
+    "dard":"https://www.youtube.com/watch?v=tJ51nR4-tLs",
+    "levitating":"https://www.youtube.com/watch?v=TUVcZfQe-Kw",
+    "mexico":"https://www.youtube.com/watch?v=2sAzb3kraoQ",
+    "happier":"https://www.youtube.com/watch?v=m7Bc3pLyij0",
+    "closer":"https://www.youtube.com/watch?v=0zGcUoRlhmw",
+    "thunder":"https://youtu.be/fKopy74weus?feature=shared",
+    "lemonade":"https://youtu.be/Sb9SsxBPBEU?feature=shared",
+        "shape": "https://www.youtube.com/watch?v=JGwWNGJdvx8",        # Shape of You - Ed Sheeran
+    "blinding": "https://www.youtube.com/watch?v=fHI8X4OXluQ",     # Blinding Lights - The Weeknd
+    "perfect": "https://www.youtube.com/watch?v=2Vv-BfVoq4g",      # Perfect - Ed Sheeran
+    "despacito": "https://www.youtube.com/watch?v=kJQP7kiw5Fk",    # Despacito - Luis Fonsi ft. Daddy Yankee
+    "levitating": "https://www.youtube.com/watch?v=TUVcZfQe-Kw",   # Levitating - Dua Lipa ft. DaBaby
+    "senorita": "https://www.youtube.com/watch?v=Pkh8UtuejGw",     # Señorita - Shawn Mendes & Camila Cabello
+    "closer": "https://www.youtube.com/watch?v=PT2_F-1esPk",       # Closer - The Chainsmokers ft. Halsey
+    "believer": "https://www.youtube.com/watch?v=7wtfhZwyrcc",     # Believer - Imagine Dragons
+    "faded": "https://www.youtube.com/watch?v=60ItHLz5WEA",        # Faded - Alan Walker
+    "havana": "https://www.youtube.com/watch?v=HCjNJDNzw8Y",       # Havana - Camila Cabello ft. Young Thug
+    "kalank": "https://www.youtube.com/watch?v=JYsRZY3fuEg",       # Kalank - Title Song
+    "kesariya": "https://www.youtube.com/watch?v=BddP6PYo2gs",     # Kesariya - Brahmāstra
+    "laila": "https://www.youtube.com/watch?v=Ax0G_P2NDqI",        # Laila Main Laila - Raees
+    "jeene": "https://www.youtube.com/watch?v=3y1hSUyjNTA",        # Jeene Laga Hoon - Ramaiya Vastavaiya
+    "tumhi": "https://www.youtube.com/watch?v=5LJnd-hEZtE",        # Tumhi Ho - Aashiqui 2
+    "kamli": "https://www.youtube.com/watch?v=D-u1J79sv4g",        # Kamli - Dhoom 3
+    "chogada": "https://www.youtube.com/watch?v=Bz8JneDcQlo",      # Chogada - Loveyatri
+    "radha": "https://www.youtube.com/watch?v=zY33Um3bmHE",        # Radha - Student of the Year
+    "dilbar": "https://www.youtube.com/watch?v=eiDiKwbGfIY",       # Dilbar - Satyameva Jayate
+    "ghungroo": "https://www.youtube.com/watch?v=xE7mYxyDNDk",     # Ghungroo - War
+}
+
